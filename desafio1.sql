@@ -111,7 +111,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
   VALUES
     (1, 8),
     (1, 2),
-    (1, 3),
+    (1, 10),
 
     (2, 10),
     (2, 7),
